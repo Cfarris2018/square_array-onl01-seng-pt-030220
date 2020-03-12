@@ -5,5 +5,5 @@ def square_array(array)
    |n| my_array << n ** 2
     my_array << square
   end
-  array
+  my_array
 end
